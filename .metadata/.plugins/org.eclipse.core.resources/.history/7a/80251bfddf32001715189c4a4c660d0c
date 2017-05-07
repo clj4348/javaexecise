@@ -1,0 +1,7 @@
+package com.imooc.test;
+
+public class MasterTest {
+	public static void main(String[] args){
+		Master master = new Master();
+	}
+}

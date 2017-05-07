@@ -1,0 +1,16 @@
+package com.imooc.test;
+
+import com.imooc.animal.Animal;
+
+public class TestThree {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Animal one = new Animal("花花",2);
+		Animal two = new Animal("花花",2);
+		//equals
+		boolean flag =  one.equals(two);
+		System.out.println("one 和  two的引用比较："+ flag);
+	}
+
+}

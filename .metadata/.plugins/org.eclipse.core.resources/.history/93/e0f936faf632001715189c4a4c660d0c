@@ -1,0 +1,10 @@
+package com.imooc.tel;
+
+public class Computer {
+	public void call(){
+		System.out.println("手机可以打电话");
+	}
+	public void message(){
+		System.out.println("手机可以发短信");
+	}
+}

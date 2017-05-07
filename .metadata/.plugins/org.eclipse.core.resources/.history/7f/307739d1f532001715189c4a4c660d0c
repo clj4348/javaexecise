@@ -1,0 +1,7 @@
+package com.imooc.test;
+
+import com.imooc.tel.FourthPhone;
+
+public class PhoneTest {
+	FourthPhone phone = new FourthPhone();
+}

@@ -1,0 +1,9 @@
+package com.imooc.worktest;
+
+public class Test {
+	public static void main(String[] args){
+		System.out.println("父类信息测试：");
+		System.out.println("测试工作类信息测试：");
+		System.out.println("研发工作类信息测试：");
+	}
+}

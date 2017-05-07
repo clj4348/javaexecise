@@ -1,0 +1,16 @@
+package com.imooc.animal;
+
+public class Cat extends Animal{
+	private double weight;//ÌåÖØ
+	
+	public Cat(){
+		
+	}
+	
+	public double getWeight(){
+		return weight;
+	}
+	public void setWeight(double weight){
+		this.weight = weight;
+	}
+}

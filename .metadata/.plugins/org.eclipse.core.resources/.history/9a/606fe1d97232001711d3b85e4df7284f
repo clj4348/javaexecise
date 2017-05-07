@@ -1,0 +1,17 @@
+package com.imooc.animal;
+
+public class Cat extends Animal{
+	//属性：体重
+	private double weight;
+	
+	public Cat(){
+		
+	}
+	
+	public Cat(String name,int month,double weight){
+		super(name,month);		
+	}
+	//方法：跑动
+	
+	//方法：吃东西(重写父类方法)
+}
