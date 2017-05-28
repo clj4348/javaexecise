@@ -1,0 +1,8 @@
+package com.imooc.set;
+
+public class CatTest {
+	public static void main(String[] args){
+		//定义宠物猫对象
+		Cat huahua=new Cat("花花",12,"英国短毛猫");
+	}
+}

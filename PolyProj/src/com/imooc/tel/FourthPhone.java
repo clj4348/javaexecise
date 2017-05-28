@@ -1,6 +1,6 @@
 package com.imooc.tel;
 
-public class FourthPhone extends ThirdPhone implements IPhoto {
+public class FourthPhone extends ThirdPhone implements IPhoto,INet{
 	// public void photo(){
 	// System.out.println("手机可以拍照");
 	// }
@@ -18,4 +18,11 @@ public class FourthPhone extends ThirdPhone implements IPhoto {
 		// TODO Auto-generated method stub
 		System.out.println("手机可以拍照");
 	}
+
+	@Override
+	public void connection() {
+		// TODO Auto-generated method stub
+		System.out.println("手机可以上网");
+	}
+	
 }

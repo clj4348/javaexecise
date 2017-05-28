@@ -1,0 +1,15 @@
+package com.imooc.string;
+
+public class StringDemo5 {
+
+	public static void main(String[] args) {
+		//==和equals方法的区别
+		//定义三个字符串，内容都是 imooc
+		String str1="imooc";
+		String str2="imooc";
+		String str3=new String("imooc");
+		System.out.println("str1和str2的内容相同?");
+
+	}
+
+}

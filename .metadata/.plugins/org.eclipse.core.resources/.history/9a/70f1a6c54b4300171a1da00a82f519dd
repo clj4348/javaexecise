@@ -1,0 +1,11 @@
+package com.imooc.set;
+
+public class NoticeTest {
+
+	public static void main(String[] args) {
+		//创建Notice类的对象，生成三条公告
+		Notice notice1=new Notice(1,"欢迎来到慕课网！","管理员",new Date());
+
+	}
+
+}

@@ -1,0 +1,20 @@
+package com.imooc.set;
+
+import java.util.Date;
+import java.util.ArrayList;
+public class NoticeTest {
+
+	public static void main(String[] args) {
+		// 创建Notice类的对象，生成三条公告
+		Notice notice1 = new Notice(1, "欢迎来到慕课网！", "管理员", new Date());
+		Notice notice2 = new Notice(2, "请同学们按时提交作业！", "老师", new Date());
+		Notice notice3 = new Notice(3, "考勤通知！", "老师", new Date());
+	
+		//添加公告
+		ArrayList noticeList = new ArrayList();
+		noticeList.add(notice1);
+		noticeList.add(notice2);
+		noticeList.add(notice3);
+	}
+
+}

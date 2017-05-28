@@ -1,0 +1,10 @@
+package com.imooc.string;
+
+public class LianXiDemo1 {
+	public static void main(String[] args){
+		//定义一个字符串"欢迎来到"
+		StringBuilder s =new StringBuilder("欢迎来到");
+		s.append("imooc");
+		System.out.println(s);
+	}
+}

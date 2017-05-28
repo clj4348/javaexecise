@@ -46,6 +46,7 @@
 	</section>
 	<section name="OptionalMessageDialog.hide.">
 		<item value="true" key="org.eclipse.jdt.ui.typecomment.deprecated"/>
+		<item value="false" key="configure_problem_severity_dialog_id"/>
 	</section>
 	<section name="DialogBounds_OverrideMethodDialog">
 		<item value="582" key="DIALOG_WIDTH"/>
@@ -59,7 +60,7 @@
 		<item value="1|微软雅黑|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|微软雅黑" key="DIALOG_FONT_NAME"/>
 		<item value="728" key="DIALOG_HEIGHT"/>
 		<item value="-23" key="DIALOG_X_ORIGIN"/>
-		<item value="-103" key="DIALOG_Y_ORIGIN"/>
+		<item value="-50" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="org.eclipse.jdt.internal.ui.dialogs.OpenTypeSelectionDialog2">
 		<item value="true" key="ShowStatusLine"/>

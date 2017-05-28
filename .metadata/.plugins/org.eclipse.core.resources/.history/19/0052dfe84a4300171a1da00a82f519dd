@@ -1,0 +1,20 @@
+package com.imooc.set;
+
+import java.util.Date;
+
+public class Notice {
+	// 属性
+	private int id;// ID
+	private String title;// 标题
+	private String creator;// 创建人
+	private Date createTime;// 创建时间
+
+	// 构造方法
+	public Notice(int id, String title, String creator, Date createTime) {
+		super();
+		this.id = id;
+		this.title = title;
+		this.creator = creator;
+		this.createTime = createTime;
+	}
+}

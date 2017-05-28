@@ -1,0 +1,10 @@
+package com.imooc.string;
+
+public class StringDemo5 {
+
+	public static void main(String[] args) {
+		//==和equals方法的区别
+
+	}
+
+}

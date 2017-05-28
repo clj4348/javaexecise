@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <typeInfoHistroy>
 <typeInfo handle="=AnimalProj/D:\/javajdk\/jre\/lib\/rt.jar&lt;java.lang(Object.class[Object" modifiers="33" timestamp="1492187771909"/>
-<typeInfo handle="=PolyProj/src&lt;com.imooc.tel{ThirdPhone.java[ThirdPhone" modifiers="1" timestamp="1494141423528"/>
+<typeInfo handle="=PolyProj/src&lt;com.imooc.anonymous{Person.java[Person" modifiers="1025" timestamp="1494645528421"/>
+<typeInfo handle="=CircusProj/src&lt;com.imooc.circus{Animal.java[Animal" modifiers="1025" timestamp="1494685780629"/>
+<typeInfo handle="=ExcepionProj/src&lt;com.imooc.test{FatherTest.java[FatherTest" modifiers="1" timestamp="1494775572008"/>
 </typeInfoHistroy>

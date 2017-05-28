@@ -1,0 +1,13 @@
+package com.imooc.set;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class ListDemo1 {
+
+	public static void main(String[] args) {
+		//用ArrayList存储编程语言的名称，并输出
+		List list = new ArrayList();
+	}
+
+}

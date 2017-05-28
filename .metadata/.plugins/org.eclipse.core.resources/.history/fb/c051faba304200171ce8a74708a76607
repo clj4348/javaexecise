@@ -1,0 +1,10 @@
+package com.imooc.string;
+
+public class StringDemo2 {
+
+	public static void main(String[] args) {
+		//定义一个字符"JAVA编程基础，我喜欢java编程"
+		String str = new String();
+	}
+
+}

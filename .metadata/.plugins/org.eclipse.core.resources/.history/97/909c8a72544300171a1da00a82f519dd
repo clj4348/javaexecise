@@ -1,0 +1,10 @@
+package com.imooc.set;
+
+public class WordDemo {
+
+	public static void main(String[] args) {
+		//将英文单词添加到HashSet中
+
+	}
+
+}
